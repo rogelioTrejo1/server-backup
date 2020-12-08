@@ -9,7 +9,7 @@ The project is divided into 2 sections, one is a REST Api, for the api is suppor
 For the script, you can: 
 ```
     $ clone https://github.com/rogelioTrejo1/server-backup.git
-    cd server-backup
+    $ cd server-backup
 ```
 
 ## Running
